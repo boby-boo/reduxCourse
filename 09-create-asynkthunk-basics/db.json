@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Toolkit",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Learn React",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Learn English",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Learn Redux",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Something new",
+      "completed": true
+    },
+    {
+      "title": "asdasd",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "dsvsd",
+      "completed": true,
+      "id": 7
+    }
+  ]
+}
